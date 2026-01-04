@@ -1,7 +1,7 @@
 # SIMULADOR DE INVESTIMENTOS 
 ## Primeira Atividade: "Criando uma Ferramenta de Controle de Investimentos com Excel"
 
-Objetivo - Aplicar conceitos avançados de Excel no desenvolvimento de uma ferramenta prática para simulação de aportes em Fundos Imobiliários (FIIs). O sistema utiliza o salário e o rendimento atual da carteira do usuário para sugerir valores de aporte, além de identificar o perfil de investidor (Suitability) e responder dúvidas comuns sobre tempo de retorno e taxas.
+Objetivo - Aplicar conceitos avançados de Excel no desenvolvimento de uma ferramenta prática para simulação de aportes em Fundos Imobiliários (FIIs). O sistema utiliza o salário e o rendimento atual da carteira do usuário para sugerir valores de aporte, além de identificar o perfil de investidor e responder dúvidas comuns sobre tempo de retorno e taxas.
 
 Funcionalidades - Projeção de investimentos a longo prazo (cenários de 2, 5, 10, 20 e 30 anos). Análise de perfil de risco e sugestão de alocação de ativos.
 
